@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://zhuzhilin.dpdns.org</id>
+    <title>潘华波律师事务所</title>
+    <updated>2025-08-24T08:31:47.795Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://zhuzhilin.dpdns.org"/>
+    <link rel="self" href="https://zhuzhilin.dpdns.org/atom.xml"/>
+    <subtitle>支持接各种民事，行政案件。
+支持各种法律业务咨询。</subtitle>
+    <logo>https://zhuzhilin.dpdns.org/images/avatar.png</logo>
+    <icon>https://zhuzhilin.dpdns.org/favicon.ico</icon>
+    <rights>All rights reserved 2025, 潘华波律师事务所</rights>
+</feed>
